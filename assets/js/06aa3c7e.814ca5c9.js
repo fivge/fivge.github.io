@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6322],{2158:function(s){s.exports=JSON.parse('{"label":"sass/scss","permalink":"/docs/tags/sass-scss","allTagsPath":"/docs/tags","count":1,"items":[{"id":"FE/style/sass","title":"sass","description":"sass","permalink":"/docs/FE/style/sass"}]}')}}]);
