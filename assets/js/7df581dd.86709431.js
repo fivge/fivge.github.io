@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3859],{660:s=>{s.exports=JSON.parse('{"label":"zsh","permalink":"/docs/tags/zsh","allTagsPath":"/docs/tags","count":1,"items":[{"id":"CloudNative/term/zshrc","title":".zshrc","description":".zshrc","permalink":"/docs/CloudNative/term/zshrc"}],"unlisted":false}')}}]);
