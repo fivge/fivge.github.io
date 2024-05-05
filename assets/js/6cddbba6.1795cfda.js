@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[379],{2364:s=>{s.exports=JSON.parse('{"label":"RubyGems","permalink":"/docs/tags/ruby-gems","allTagsPath":"/docs/tags","count":1,"items":[{"id":"FE/style/sass","title":"sass","description":"sass","permalink":"/docs/FE/style/sass"}],"unlisted":false}')}}]);
